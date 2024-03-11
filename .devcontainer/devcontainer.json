@@ -1,0 +1,4 @@
+{
+  "name": "devcontainer",
+  "image": "ghcr.io/open-cloud-dev/devcontainers/full"
+}
