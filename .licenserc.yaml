@@ -16,6 +16,7 @@ header:
     - "**/*.svelte"
     - "**/*.txt"
     - "**/*.lock"
+    - "**/gitconfig"
     - hack/generate-authors.sh
   comment: on-failure
   language:
